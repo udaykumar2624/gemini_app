@@ -1,0 +1,5 @@
+srvices:
+  image: "patil2624/gemini"
+  ports:
+    - "9090:3000"
+
